@@ -1,0 +1,2 @@
+# Gunes_Takip_Sistemi_Motor_Calistirme_Kodlari
+ 
